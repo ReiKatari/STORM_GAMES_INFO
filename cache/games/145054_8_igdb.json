@@ -1,0 +1,74 @@
+{
+  "id": 145054,
+  "cover": {
+    "id": 135056,
+    "height": 2000,
+    "image_id": "co2w7k",
+    "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2w7k.jpg",
+    "width": 1500
+  },
+  "first_release_date": 1131062400,
+  "franchises": [
+    {
+      "id": 29,
+      "name": "Resident Evil"
+    }
+  ],
+  "name": "Resident Evil 4: Limited Edition",
+  "platforms": [
+    {
+      "id": 8,
+      "name": "PlayStation 2"
+    }
+  ],
+  "release_dates": [
+    {
+      "id": 235458,
+      "created_at": 1616767367,
+      "date": 1131062400,
+      "game": 145054,
+      "human": "Nov 04, 2005",
+      "m": 11,
+      "platform": 8,
+      "updated_at": 1616767452,
+      "y": 2005,
+      "checksum": "0374c70b-8b2a-3938-9076-d889f89b7fe4",
+      "date_format": 0,
+      "release_region": 1
+    }
+  ],
+  "summary": "This Limited Edition release in addition to actual game also contains limited edition steelbook embossed packaging and a small portion of the official strategy guide.",
+  "version_title": "Limited Edition",
+  "earliest_release_date": 1131062400,
+  "all_regions": [],
+  "status_display": "Released (Вышла)",
+  "russian_support": "None",
+  "dlcs_data": [],
+  "parent_game_data": [],
+  "franchise_data": [
+    {
+      "name": "Resident Evil",
+      "id": 29
+    }
+  ],
+  "remakes_remasters_data": [],
+  "dlc_link_str": "—",
+  "parent_link_str": "—",
+  "franchise_link_str": "<a href='franchise:29|Resident Evil' style='color: #00d4ff; text-decoration: none;'>Resident Evil</a>",
+  "remake_link_str": "—",
+  "dlcs_str": "",
+  "parent_game_str": "",
+  "franchise_str": "Resident Evil",
+  "remakes_remasters_str": "",
+  "mixed_genres": "",
+  "developers_list": [],
+  "publishers_list": [],
+  "max_local_players": 1,
+  "description": "This Limited Edition release in addition to actual game also contains limited edition steelbook embossed packaging and a small portion of the official strategy guide.",
+  "edition": "Limited Edition",
+  "cover_url_thumb": "https://images.igdb.com/igdb/image/upload/t_cover_small/co2w7k.jpg",
+  "cover_url_medium": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2w7k.jpg",
+  "cover_url_large": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2w7k.jpg",
+  "cover_url_full": "https://images.igdb.com/igdb/image/upload/t_original/co2w7k.jpg",
+  "screenshot_urls": []
+}

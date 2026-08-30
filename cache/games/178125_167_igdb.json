@@ -1,0 +1,633 @@
+{
+  "id": 178125,
+  "cover": {
+    "id": 287675,
+    "height": 1600,
+    "image_id": "co65yz",
+    "url": "//images.igdb.com/igdb/image/upload/t_thumb/co65yz.jpg",
+    "width": 1200
+  },
+  "first_release_date": 1636588800,
+  "franchises": [
+    {
+      "id": 493,
+      "name": "Grand Theft Auto"
+    }
+  ],
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 10,
+      "name": "Racing"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 242929,
+      "company": {
+        "id": 39120,
+        "name": "Grove Street Games"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 242930,
+      "company": {
+        "id": 29,
+        "name": "Rockstar Games"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 242931,
+      "company": {
+        "id": 27224,
+        "name": "Netflix"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Grand Theft Auto: Vice City - The Definitive Edition",
+  "parent_game": {
+    "id": 733,
+    "name": "Grand Theft Auto: Vice City"
+  },
+  "platforms": [
+    {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    {
+      "id": 34,
+      "name": "Android"
+    },
+    {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    {
+      "id": 39,
+      "name": "iOS"
+    },
+    {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    {
+      "id": 49,
+      "name": "Xbox One"
+    },
+    {
+      "id": 130,
+      "name": "Nintendo Switch"
+    }
+  ],
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "rating": 69.85937863373414,
+  "release_dates": [
+    {
+      "id": 540463,
+      "created_at": 1701280183,
+      "date": 1636588800,
+      "game": 178125,
+      "human": "Nov 11, 2021",
+      "m": 11,
+      "platform": 130,
+      "updated_at": 1757386184,
+      "y": 2021,
+      "checksum": "7487cdd4-2194-6ddb-4390-7a06a77fc808",
+      "status": 6,
+      "date_format": 0,
+      "release_region": 8
+    },
+    {
+      "id": 540470,
+      "created_at": 1701280184,
+      "date": 1702512000,
+      "game": 178125,
+      "human": "Dec 14, 2023",
+      "m": 12,
+      "platform": 39,
+      "updated_at": 1757386184,
+      "y": 2023,
+      "checksum": "3ba48c87-a186-8126-d908-8935798a5e20",
+      "status": 6,
+      "date_format": 0,
+      "release_region": 8
+    },
+    {
+      "id": 540468,
+      "created_at": 1701280183,
+      "date": 1636588800,
+      "game": 178125,
+      "human": "Nov 11, 2021",
+      "m": 11,
+      "platform": 169,
+      "updated_at": 1757386184,
+      "y": 2021,
+      "checksum": "91f56aa8-4bf2-4af9-3f93-d2544e222e5a",
+      "status": 6,
+      "date_format": 0,
+      "release_region": 8
+    },
+    {
+      "id": 540466,
+      "created_at": 1701280183,
+      "date": 1636588800,
+      "game": 178125,
+      "human": "Nov 11, 2021",
+      "m": 11,
+      "platform": 167,
+      "updated_at": 1757386184,
+      "y": 2021,
+      "checksum": "a4303ccb-d6a4-fa75-859d-4ff920bd5f26",
+      "status": 6,
+      "date_format": 0,
+      "release_region": 8
+    },
+    {
+      "id": 540467,
+      "created_at": 1701280183,
+      "date": 1636588800,
+      "game": 178125,
+      "human": "Nov 11, 2021",
+      "m": 11,
+      "platform": 49,
+      "updated_at": 1757386184,
+      "y": 2021,
+      "checksum": "22fe00fa-c9b0-ccb1-23db-6102bb0a2845",
+      "status": 6,
+      "date_format": 0,
+      "release_region": 8
+    },
+    {
+      "id": 540464,
+      "created_at": 1701280183,
+      "date": 1636588800,
+      "game": 178125,
+      "human": "Nov 11, 2021",
+      "m": 11,
+      "platform": 6,
+      "updated_at": 1757386184,
+      "y": 2021,
+      "checksum": "1f02e918-365b-8e16-e8c4-9588ce5059e2",
+      "status": 6,
+      "date_format": 0,
+      "release_region": 8
+    },
+    {
+      "id": 540465,
+      "created_at": 1701280183,
+      "date": 1636588800,
+      "game": 178125,
+      "human": "Nov 11, 2021",
+      "m": 11,
+      "platform": 48,
+      "updated_at": 1757386184,
+      "y": 2021,
+      "checksum": "b3cf55f2-26df-1113-6695-d20dc665c585",
+      "status": 6,
+      "date_format": 0,
+      "release_region": 8
+    },
+    {
+      "id": 540469,
+      "created_at": 1701280184,
+      "date": 1702512000,
+      "game": 178125,
+      "human": "Dec 14, 2023",
+      "m": 12,
+      "platform": 34,
+      "updated_at": 1757386184,
+      "y": 2023,
+      "checksum": "05b8d29e-458d-7602-440e-bc43af0a5115",
+      "status": 6,
+      "date_format": 0,
+      "release_region": 8
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 704557,
+      "height": 1200,
+      "image_id": "scf3n1",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scf3n1.jpg",
+      "width": 3840
+    },
+    {
+      "id": 704558,
+      "height": 2160,
+      "image_id": "scf3n2",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scf3n2.jpg",
+      "width": 3840
+    },
+    {
+      "id": 704559,
+      "height": 2160,
+      "image_id": "scf3n3",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scf3n3.jpg",
+      "width": 3840
+    }
+  ],
+  "summary": "Welcome to the 1980s. Experience Tommy Vercetti’s tale of betrayal and revenge in the neon-soaked tropical sprawl of Vice City, a town brimming with excess, ready to be taken over, your way.",
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Comedy"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "language_supports": [
+    {
+      "id": 511324,
+      "language": {
+        "id": 12,
+        "name": "French"
+      },
+      "language_support_type": {
+        "id": 2,
+        "name": "Subtitles"
+      }
+    },
+    {
+      "id": 511322,
+      "language": {
+        "id": 7,
+        "name": "English"
+      },
+      "language_support_type": {
+        "id": 2,
+        "name": "Subtitles"
+      }
+    },
+    {
+      "id": 511326,
+      "language": {
+        "id": 15,
+        "name": "Italian"
+      },
+      "language_support_type": {
+        "id": 2,
+        "name": "Subtitles"
+      }
+    },
+    {
+      "id": 511352,
+      "language": {
+        "id": 3,
+        "name": "Chinese (Traditional)"
+      },
+      "language_support_type": {
+        "id": 2,
+        "name": "Subtitles"
+      }
+    },
+    {
+      "id": 511328,
+      "language": {
+        "id": 27,
+        "name": "German"
+      },
+      "language_support_type": {
+        "id": 2,
+        "name": "Subtitles"
+      }
+    },
+    {
+      "id": 511330,
+      "language": {
+        "id": 9,
+        "name": "Spanish (Spain)"
+      },
+      "language_support_type": {
+        "id": 2,
+        "name": "Subtitles"
+      }
+    },
+    {
+      "id": 511332,
+      "language": {
+        "id": 16,
+        "name": "Japanese"
+      },
+      "language_support_type": {
+        "id": 3,
+        "name": "Interface"
+      }
+    },
+    {
+      "id": 511334,
+      "language": {
+        "id": 16,
+        "name": "Japanese"
+      },
+      "language_support_type": {
+        "id": 2,
+        "name": "Subtitles"
+      }
+    },
+    {
+      "id": 511336,
+      "language": {
+        "id": 17,
+        "name": "Korean"
+      },
+      "language_support_type": {
+        "id": 2,
+        "name": "Subtitles"
+      }
+    },
+    {
+      "id": 511339,
+      "language": {
+        "id": 19,
+        "name": "Polish"
+      },
+      "language_support_type": {
+        "id": 2,
+        "name": "Subtitles"
+      }
+    },
+    {
+      "id": 511342,
+      "language": {
+        "id": 21,
+        "name": "Portuguese (Brazil)"
+      },
+      "language_support_type": {
+        "id": 2,
+        "name": "Subtitles"
+      }
+    },
+    {
+      "id": 511345,
+      "language": {
+        "id": 22,
+        "name": "Russian"
+      },
+      "language_support_type": {
+        "id": 2,
+        "name": "Subtitles"
+      }
+    },
+    {
+      "id": 511349,
+      "language": {
+        "id": 2,
+        "name": "Chinese (Simplified)"
+      },
+      "language_support_type": {
+        "id": 2,
+        "name": "Subtitles"
+      }
+    },
+    {
+      "id": 471989,
+      "language": {
+        "id": 9,
+        "name": "Spanish (Spain)"
+      },
+      "language_support_type": {
+        "id": 3,
+        "name": "Interface"
+      }
+    },
+    {
+      "id": 471990,
+      "language": {
+        "id": 10,
+        "name": "Spanish (Mexico)"
+      },
+      "language_support_type": {
+        "id": 3,
+        "name": "Interface"
+      }
+    },
+    {
+      "id": 471993,
+      "language": {
+        "id": 7,
+        "name": "English"
+      },
+      "language_support_type": {
+        "id": 1,
+        "name": "Audio"
+      }
+    },
+    {
+      "id": 471976,
+      "language": {
+        "id": 2,
+        "name": "Chinese (Simplified)"
+      },
+      "language_support_type": {
+        "id": 3,
+        "name": "Interface"
+      }
+    },
+    {
+      "id": 471977,
+      "language": {
+        "id": 3,
+        "name": "Chinese (Traditional)"
+      },
+      "language_support_type": {
+        "id": 3,
+        "name": "Interface"
+      }
+    },
+    {
+      "id": 471980,
+      "language": {
+        "id": 27,
+        "name": "German"
+      },
+      "language_support_type": {
+        "id": 3,
+        "name": "Interface"
+      }
+    },
+    {
+      "id": 471982,
+      "language": {
+        "id": 17,
+        "name": "Korean"
+      },
+      "language_support_type": {
+        "id": 3,
+        "name": "Interface"
+      }
+    },
+    {
+      "id": 471985,
+      "language": {
+        "id": 21,
+        "name": "Portuguese (Brazil)"
+      },
+      "language_support_type": {
+        "id": 3,
+        "name": "Interface"
+      }
+    },
+    {
+      "id": 471978,
+      "language": {
+        "id": 7,
+        "name": "English"
+      },
+      "language_support_type": {
+        "id": 3,
+        "name": "Interface"
+      }
+    },
+    {
+      "id": 471979,
+      "language": {
+        "id": 12,
+        "name": "French"
+      },
+      "language_support_type": {
+        "id": 3,
+        "name": "Interface"
+      }
+    },
+    {
+      "id": 471981,
+      "language": {
+        "id": 15,
+        "name": "Italian"
+      },
+      "language_support_type": {
+        "id": 3,
+        "name": "Interface"
+      }
+    },
+    {
+      "id": 471983,
+      "language": {
+        "id": 19,
+        "name": "Polish"
+      },
+      "language_support_type": {
+        "id": 3,
+        "name": "Interface"
+      }
+    },
+    {
+      "id": 471987,
+      "language": {
+        "id": 22,
+        "name": "Russian"
+      },
+      "language_support_type": {
+        "id": 3,
+        "name": "Interface"
+      }
+    }
+  ],
+  "game_localizations": [
+    {
+      "id": 16038,
+      "name": "グランド・セフト・オート：バイスシティ：決定版",
+      "region": 3
+    },
+    {
+      "id": 21707,
+      "name": "Grand Theft Auto: Vice City – 데피니티브 에디션",
+      "region": 2
+    }
+  ],
+  "earliest_release_date": 1636588800,
+  "all_regions": [
+    "Australia (AU)",
+    "North America (NA)"
+  ],
+  "status_display": "Released (Вышла)",
+  "russian_support": "Interface, Subtitles",
+  "dlcs_data": [],
+  "parent_game_data": [
+    {
+      "name": "Grand Theft Auto: Vice City",
+      "id": 733
+    }
+  ],
+  "franchise_data": [
+    {
+      "name": "Grand Theft Auto",
+      "id": 493
+    }
+  ],
+  "remakes_remasters_data": [],
+  "dlc_link_str": "—",
+  "parent_link_str": "<a href='game:733|Grand Theft Auto: Vice City' style='color: #00d4ff; text-decoration: none;'>Grand Theft Auto: Vice City</a>",
+  "franchise_link_str": "<a href='franchise:493|Grand Theft Auto' style='color: #00d4ff; text-decoration: none;'>Grand Theft Auto</a>",
+  "remake_link_str": "—",
+  "dlcs_str": "",
+  "parent_game_str": "Grand Theft Auto: Vice City",
+  "franchise_str": "Grand Theft Auto",
+  "remakes_remasters_str": "",
+  "mixed_genres": "Shooter; Racing; Adventure; Action; Comedy; Open world; Third person",
+  "developers_list": [
+    "Grove Street Games"
+  ],
+  "publishers_list": [
+    "Rockstar Games",
+    "Netflix"
+  ],
+  "max_local_players": 1,
+  "description": "Welcome to the 1980s. Experience Tommy Vercetti’s tale of betrayal and revenge in the neon-soaked tropical sprawl of Vice City, a town brimming with excess, ready to be taken over, your way.",
+  "edition": "",
+  "cover_url_thumb": "https://images.igdb.com/igdb/image/upload/t_cover_small/co65yz.jpg",
+  "cover_url_medium": "https://images.igdb.com/igdb/image/upload/t_cover_big/co65yz.jpg",
+  "cover_url_large": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co65yz.jpg",
+  "cover_url_full": "https://images.igdb.com/igdb/image/upload/t_original/co65yz.jpg",
+  "screenshot_urls": [
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scf3n1.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scf3n1.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scf3n1.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scf3n2.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scf3n2.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scf3n2.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scf3n3.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scf3n3.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scf3n3.jpg"
+    }
+  ]
+}

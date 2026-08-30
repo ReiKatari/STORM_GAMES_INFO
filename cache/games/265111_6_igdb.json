@@ -1,0 +1,283 @@
+{
+  "id": 265111,
+  "cover": {
+    "id": 480815,
+    "height": 800,
+    "image_id": "coaazz",
+    "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaazz.jpg",
+    "width": 600
+  },
+  "first_release_date": 1718755200,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 295359,
+      "company": {
+        "id": 57095,
+        "name": "Anegar Games"
+      },
+      "developer": true,
+      "publisher": true
+    }
+  ],
+  "name": "Chained Together",
+  "platforms": [
+    {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  ],
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "rating": 55.12051280053883,
+  "release_dates": [
+    {
+      "id": 605656,
+      "created_at": 1718830652,
+      "date": 1718755200,
+      "game": 265111,
+      "human": "Jun 19, 2024",
+      "m": 6,
+      "platform": 6,
+      "updated_at": 1757361586,
+      "y": 2024,
+      "checksum": "f5716778-30b5-09dd-745f-9fd699f176c2",
+      "status": 6,
+      "date_format": 0,
+      "release_region": 8
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 1135919,
+      "height": 1080,
+      "image_id": "scochb",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scochb.jpg",
+      "width": 1920
+    },
+    {
+      "id": 1135920,
+      "height": 1080,
+      "image_id": "scochc",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scochc.jpg",
+      "width": 1920
+    },
+    {
+      "id": 1135921,
+      "height": 1080,
+      "image_id": "scochd",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scochd.jpg",
+      "width": 1920
+    },
+    {
+      "id": 1135922,
+      "height": 1080,
+      "image_id": "scoche",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scoche.jpg",
+      "width": 1920
+    },
+    {
+      "id": 1135923,
+      "height": 1080,
+      "image_id": "scochf",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scochf.jpg",
+      "width": 1920
+    },
+    {
+      "id": 1135924,
+      "height": 1080,
+      "image_id": "scochg",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scochg.jpg",
+      "width": 1920
+    },
+    {
+      "id": 1135925,
+      "height": 1080,
+      "image_id": "scochh",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scochh.jpg",
+      "width": 1920
+    },
+    {
+      "id": 1135926,
+      "height": 1080,
+      "image_id": "scochi",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scochi.jpg",
+      "width": 1920
+    },
+    {
+      "id": 1135927,
+      "height": 1080,
+      "image_id": "scochj",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scochj.jpg",
+      "width": 1920
+    },
+    {
+      "id": 1135928,
+      "height": 1080,
+      "image_id": "scochk",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scochk.jpg",
+      "width": 1920
+    },
+    {
+      "id": 1135929,
+      "height": 1080,
+      "image_id": "scochl",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scochl.jpg",
+      "width": 1920
+    }
+  ],
+  "summary": "From the depths of hell, climb chained to your friends through diverse worlds. Solo or co-op, try to reach the summit and discover what awaits you there...",
+  "language_supports": [
+    {
+      "id": 790375,
+      "language": {
+        "id": 7,
+        "name": "English"
+      },
+      "language_support_type": {
+        "id": 1,
+        "name": "Audio"
+      }
+    },
+    {
+      "id": 790376,
+      "language": {
+        "id": 7,
+        "name": "English"
+      },
+      "language_support_type": {
+        "id": 2,
+        "name": "Subtitles"
+      }
+    },
+    {
+      "id": 790374,
+      "language": {
+        "id": 7,
+        "name": "English"
+      },
+      "language_support_type": {
+        "id": 3,
+        "name": "Interface"
+      }
+    }
+  ],
+  "earliest_release_date": 1718755200,
+  "all_regions": [],
+  "status_display": "Released (Вышла)",
+  "russian_support": "None",
+  "dlcs_data": [],
+  "parent_game_data": [],
+  "franchise_data": [],
+  "remakes_remasters_data": [],
+  "dlc_link_str": "—",
+  "parent_link_str": "—",
+  "franchise_link_str": "—",
+  "remake_link_str": "—",
+  "dlcs_str": "",
+  "parent_game_str": "",
+  "franchise_str": "",
+  "remakes_remasters_str": "",
+  "mixed_genres": "Simulator; Adventure; Indie; Third person",
+  "developers_list": [
+    "Anegar Games"
+  ],
+  "publishers_list": [
+    "Anegar Games"
+  ],
+  "max_local_players": 2,
+  "description": "From the depths of hell, climb chained to your friends through diverse worlds. Solo or co-op, try to reach the summit and discover what awaits you there...",
+  "edition": "",
+  "cover_url_thumb": "https://images.igdb.com/igdb/image/upload/t_cover_small/coaazz.jpg",
+  "cover_url_medium": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaazz.jpg",
+  "cover_url_large": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coaazz.jpg",
+  "cover_url_full": "https://images.igdb.com/igdb/image/upload/t_original/coaazz.jpg",
+  "screenshot_urls": [
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scochb.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scochb.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scochb.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scochc.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scochc.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scochc.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scochd.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scochd.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scochd.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scoche.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scoche.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scoche.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scochf.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scochf.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scochf.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scochg.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scochg.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scochg.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scochh.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scochh.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scochh.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scochi.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scochi.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scochi.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scochj.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scochj.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scochj.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scochk.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scochk.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scochk.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scochl.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scochl.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scochl.jpg"
+    }
+  ]
+}

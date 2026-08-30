@@ -1,0 +1,308 @@
+{
+  "id": 972,
+  "aggregated_rating": 70.0,
+  "cover": {
+    "id": 134989,
+    "height": 1333,
+    "image_id": "co2w5p",
+    "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2w5p.jpg",
+    "width": 1000
+  },
+  "first_release_date": 1071100800,
+  "franchises": [
+    {
+      "id": 29,
+      "name": "Resident Evil"
+    }
+  ],
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 4257,
+      "company": {
+        "id": 37,
+        "name": "Capcom"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 4258,
+      "company": {
+        "id": 660,
+        "name": "Capcom Production Studio 1"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Resident Evil Outbreak",
+  "platforms": [
+    {
+      "id": 8,
+      "name": "PlayStation 2"
+    }
+  ],
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "rating": 63.59571700746035,
+  "release_dates": [
+    {
+      "id": 105225,
+      "created_at": 1501796137,
+      "date": 1071100800,
+      "game": 972,
+      "human": "Dec 11, 2003",
+      "m": 12,
+      "platform": 8,
+      "updated_at": 1501871692,
+      "y": 2003,
+      "checksum": "c0c11588-79ab-e772-e946-9d8900619a31",
+      "date_format": 0,
+      "release_region": 5
+    },
+    {
+      "id": 381173,
+      "created_at": 1660859012,
+      "date": 1080604800,
+      "game": 972,
+      "human": "Mar 30, 2004",
+      "m": 3,
+      "platform": 8,
+      "updated_at": 1660870067,
+      "y": 2004,
+      "checksum": "9bc7bbce-8b7f-1a21-4a45-84cb555f757d",
+      "date_format": 0,
+      "release_region": 2
+    },
+    {
+      "id": 381174,
+      "created_at": 1660859012,
+      "date": 1095379200,
+      "game": 972,
+      "human": "Sep 17, 2004",
+      "m": 9,
+      "platform": 8,
+      "updated_at": 1660870067,
+      "y": 2004,
+      "checksum": "37a1992c-dfbf-4075-4219-1dc427aad542",
+      "date_format": 0,
+      "release_region": 1
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 859086,
+      "height": 384,
+      "image_id": "scievi",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scievi.jpg",
+      "width": 512
+    },
+    {
+      "id": 859088,
+      "height": 384,
+      "image_id": "scievk",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scievk.jpg",
+      "width": 512
+    },
+    {
+      "id": 859089,
+      "height": 384,
+      "image_id": "scievl",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scievl.jpg",
+      "width": 512
+    },
+    {
+      "id": 859090,
+      "height": 384,
+      "image_id": "scievm",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scievm.jpg",
+      "width": 512
+    },
+    {
+      "id": 859091,
+      "height": 384,
+      "image_id": "scievn",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scievn.jpg",
+      "width": 512
+    },
+    {
+      "id": 859092,
+      "height": 384,
+      "image_id": "scievo",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scievo.jpg",
+      "width": 512
+    },
+    {
+      "id": 859093,
+      "height": 384,
+      "image_id": "scievp",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scievp.jpg",
+      "width": 512
+    },
+    {
+      "id": 859094,
+      "height": 384,
+      "image_id": "scievq",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scievq.jpg",
+      "width": 512
+    },
+    {
+      "id": 859087,
+      "height": 384,
+      "image_id": "scievj",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scievj.jpg",
+      "width": 512
+    }
+  ],
+  "standalone_expansions": [
+    {
+      "id": 973,
+      "name": "Resident Evil Outbreak File #2"
+    }
+  ],
+  "storyline": "Resident Evil Outbreak takes place over five scenarios, ranging from the beginning of the outbreak to the moment when Raccoon City is destroyed by the United States government. You play one of eight ordinary citizens of Raccoon city attempting to survive the carnage caused by the T-Virus.",
+  "summary": "Resident Evil Outbreak is a survival-horror game released exclusively for the PlayStation 2. The gameplay is similar to the previous Resident Evil games and consists mainly of exploring, solving puzzles, finding items and surviving. It was the first Resident Evil game with multiplayer capability, using the PlayStation 2's online network. Up to four players could participate simultaneously in one scenario. Alternately, in single-player mode, the player is accompanied by two AI-controlled characters.",
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 19,
+      "name": "Horror"
+    },
+    {
+      "id": 21,
+      "name": "Survival"
+    }
+  ],
+  "game_localizations": [
+    {
+      "id": 253,
+      "name": "バイオハザード アウトブレイク",
+      "region": 3
+    },
+    {
+      "id": 254,
+      "region": 4
+    }
+  ],
+  "earliest_release_date": 1071100800,
+  "all_regions": [
+    "Australia (AU)",
+    "New Zealand (NZ)"
+  ],
+  "status_display": "Released (Вышла)",
+  "russian_support": "None",
+  "dlcs_data": [
+    {
+      "name": "Resident Evil Outbreak File #2",
+      "id": 973
+    }
+  ],
+  "parent_game_data": [],
+  "franchise_data": [
+    {
+      "name": "Resident Evil",
+      "id": 29
+    }
+  ],
+  "remakes_remasters_data": [],
+  "dlc_link_str": "<a href='game:973|Resident Evil Outbreak File #2' style='color: #00d4ff; text-decoration: none;'>Resident Evil Outbreak File #2</a>",
+  "parent_link_str": "—",
+  "franchise_link_str": "<a href='franchise:29|Resident Evil' style='color: #00d4ff; text-decoration: none;'>Resident Evil</a>",
+  "remake_link_str": "—",
+  "dlcs_str": "Resident Evil Outbreak File #2",
+  "parent_game_str": "",
+  "franchise_str": "Resident Evil",
+  "remakes_remasters_str": "",
+  "mixed_genres": "Shooter; Puzzle; Adventure; Action; Horror; Survival; Third person",
+  "developers_list": [
+    "Capcom Production Studio 1"
+  ],
+  "publishers_list": [
+    "Capcom"
+  ],
+  "max_local_players": 2,
+  "description": "Resident Evil Outbreak is a survival-horror game released exclusively for the PlayStation 2. The gameplay is similar to the previous Resident Evil games and consists mainly of exploring, solving puzzles, finding items and surviving. It was the first Resident Evil game with multiplayer capability, using the PlayStation 2's online network. Up to four players could participate simultaneously in one scenario. Alternately, in single-player mode, the player is accompanied by two AI-controlled characters.",
+  "edition": "",
+  "cover_url_thumb": "https://images.igdb.com/igdb/image/upload/t_cover_small/co2w5p.jpg",
+  "cover_url_medium": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2w5p.jpg",
+  "cover_url_large": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2w5p.jpg",
+  "cover_url_full": "https://images.igdb.com/igdb/image/upload/t_original/co2w5p.jpg",
+  "screenshot_urls": [
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scievi.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scievi.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scievi.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scievk.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scievk.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scievk.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scievl.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scievl.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scievl.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scievm.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scievm.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scievm.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scievn.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scievn.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scievn.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scievo.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scievo.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scievo.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scievp.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scievp.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scievp.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scievq.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scievq.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scievq.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scievj.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scievj.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scievj.jpg"
+    }
+  ]
+}

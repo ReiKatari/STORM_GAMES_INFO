@@ -1,0 +1,238 @@
+{
+  "id": 19886,
+  "cover": {
+    "id": 134926,
+    "height": 946,
+    "image_id": "co2w3y",
+    "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2w3y.jpg",
+    "width": 710
+  },
+  "first_release_date": 1005177600,
+  "franchises": [
+    {
+      "id": 29,
+      "name": "Resident Evil"
+    }
+  ],
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 37281,
+      "company": {
+        "id": 263,
+        "name": "Namco"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 37280,
+      "company": {
+        "id": 37,
+        "name": "Capcom"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 182620,
+      "company": {
+        "id": 323,
+        "name": "Nextech"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 182621,
+      "company": {
+        "id": 18585,
+        "name": "SIMS"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Resident Evil Survivor 2 Code: Veronica",
+  "platforms": [
+    {
+      "id": 52,
+      "name": "Arcade"
+    },
+    {
+      "id": 8,
+      "name": "PlayStation 2"
+    }
+  ],
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "rating": 43.94134742277248,
+  "release_dates": [
+    {
+      "id": 53273,
+      "created_at": 1467794556,
+      "date": 1005177600,
+      "game": 19886,
+      "human": "Nov 08, 2001",
+      "m": 11,
+      "platform": 8,
+      "updated_at": 1739940773,
+      "y": 2001,
+      "checksum": "b430fd42-34b8-257e-094c-fcb93e7399b4",
+      "date_format": 0,
+      "release_region": 5
+    },
+    {
+      "id": 53275,
+      "created_at": 1467794556,
+      "date": 1005177600,
+      "game": 19886,
+      "human": "Nov 08, 2001",
+      "m": 11,
+      "platform": 52,
+      "updated_at": 1739940773,
+      "y": 2001,
+      "checksum": "3c19cf6c-65d6-d6e5-05d7-85af7cacd3c2",
+      "date_format": 0,
+      "release_region": 5
+    },
+    {
+      "id": 53274,
+      "created_at": 1467794556,
+      "date": 1016755200,
+      "game": 19886,
+      "human": "Mar 22, 2002",
+      "m": 3,
+      "platform": 8,
+      "updated_at": 1739940773,
+      "y": 2002,
+      "checksum": "f76609e4-0edf-8594-d313-3572f4b6730d",
+      "date_format": 0,
+      "release_region": 1
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 855705,
+      "height": 576,
+      "image_id": "scic9l",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scic9l.jpg",
+      "width": 720
+    },
+    {
+      "id": 855706,
+      "height": 576,
+      "image_id": "scic9m",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scic9m.jpg",
+      "width": 720
+    },
+    {
+      "id": 855707,
+      "height": 576,
+      "image_id": "scic9n",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scic9n.jpg",
+      "width": 720
+    },
+    {
+      "id": 855708,
+      "height": 576,
+      "image_id": "scic9o",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scic9o.jpg",
+      "width": 720
+    }
+  ],
+  "storyline": "Claire Redfield, is continuing to look for her brother after the Raccoon City incident and she was tipped by an unknown source about an Umbrella facility in Paris. When she tried to infiltrate the facility, she was caught, after which she was taken to the Umbrella prison in Rockfort Island. She teams up with fellow prisoner, Steve Burnside, and plans to escape while an outbreak of the t-Virus is released onto the island. This game's events are actually revealed to be a dream after the completion of the arcade mode, which Claire is having after escaping Antarctica with her brother Chris Redfield at the end of CODE: Veronica.",
+  "summary": "Resident Evil Survivor 2 Code: Veronica is a first-person shooter video game and the second installment in the Gun Survivor series. As in most lightgun games, the objective is to make it through an environment while shooting enemies. It is somewhat less typical in that you have full roaming control over your character rather than being stuck on rails. More unusually, a timer begins as you enter each area. If the timer runs out before you leave, Nemesis will appear and chase you.",
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 19,
+      "name": "Horror"
+    }
+  ],
+  "game_localizations": [
+    {
+      "id": 5662,
+      "name": "ガンサバイバー 2: バイオハザードコード - ベロニカ",
+      "region": 3
+    }
+  ],
+  "earliest_release_date": 1005177600,
+  "all_regions": [
+    "Australia (AU)"
+  ],
+  "status_display": "Released (Вышла)",
+  "russian_support": "None",
+  "dlcs_data": [],
+  "parent_game_data": [],
+  "franchise_data": [
+    {
+      "name": "Resident Evil",
+      "id": 29
+    }
+  ],
+  "remakes_remasters_data": [],
+  "dlc_link_str": "—",
+  "parent_link_str": "—",
+  "franchise_link_str": "<a href='franchise:29|Resident Evil' style='color: #00d4ff; text-decoration: none;'>Resident Evil</a>",
+  "remake_link_str": "—",
+  "dlcs_str": "",
+  "parent_game_str": "",
+  "franchise_str": "Resident Evil",
+  "remakes_remasters_str": "",
+  "mixed_genres": "Shooter; Action; Horror; First person",
+  "developers_list": [
+    "Nextech"
+  ],
+  "publishers_list": [
+    "Namco",
+    "Capcom"
+  ],
+  "max_local_players": 1,
+  "description": "Resident Evil Survivor 2 Code: Veronica is a first-person shooter video game and the second installment in the Gun Survivor series. As in most lightgun games, the objective is to make it through an environment while shooting enemies. It is somewhat less typical in that you have full roaming control over your character rather than being stuck on rails. More unusually, a timer begins as you enter each area. If the timer runs out before you leave, Nemesis will appear and chase you.",
+  "edition": "",
+  "cover_url_thumb": "https://images.igdb.com/igdb/image/upload/t_cover_small/co2w3y.jpg",
+  "cover_url_medium": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2w3y.jpg",
+  "cover_url_large": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2w3y.jpg",
+  "cover_url_full": "https://images.igdb.com/igdb/image/upload/t_original/co2w3y.jpg",
+  "screenshot_urls": [
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scic9l.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scic9l.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scic9l.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scic9m.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scic9m.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scic9m.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scic9n.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scic9n.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scic9n.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scic9o.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scic9o.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scic9o.jpg"
+    }
+  ]
+}

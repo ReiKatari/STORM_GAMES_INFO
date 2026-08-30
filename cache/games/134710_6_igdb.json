@@ -1,0 +1,428 @@
+{
+  "id": 134710,
+  "aggregated_rating": 94.0,
+  "cover": {
+    "id": 222553,
+    "height": 1920,
+    "image_id": "co4rq1",
+    "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4rq1.jpg",
+    "width": 1440
+  },
+  "expansions": [
+    {
+      "id": 239060,
+      "name": "Grand Theft Auto V: Story Mode"
+    }
+  ],
+  "first_release_date": 1416268800,
+  "franchises": [
+    {
+      "id": 493,
+      "name": "Grand Theft Auto"
+    }
+  ],
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 157154,
+      "company": {
+        "id": 365,
+        "name": "Rockstar North"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 157155,
+      "company": {
+        "id": 29,
+        "name": "Rockstar Games"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Grand Theft Auto Online",
+  "parent_game": {
+    "id": 1020,
+    "name": "Grand Theft Auto V"
+  },
+  "platforms": [
+    {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    {
+      "id": 9,
+      "name": "PlayStation 3"
+    },
+    {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    {
+      "id": 12,
+      "name": "Xbox 360"
+    },
+    {
+      "id": 49,
+      "name": "Xbox One"
+    }
+  ],
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    },
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "rating": 81.02747262537783,
+  "release_dates": [
+    {
+      "id": 346658,
+      "created_at": 1646418547,
+      "date": 1647302400,
+      "game": 134710,
+      "human": "Mar 15, 2022",
+      "m": 3,
+      "platform": 169,
+      "updated_at": 1757697523,
+      "y": 2022,
+      "checksum": "dcccbabd-e731-a564-a8f8-619ab785c7e2",
+      "date_format": 0,
+      "release_region": 8
+    },
+    {
+      "id": 346659,
+      "created_at": 1646418547,
+      "date": 1647302400,
+      "game": 134710,
+      "human": "Mar 15, 2022",
+      "m": 3,
+      "platform": 167,
+      "updated_at": 1757697523,
+      "y": 2022,
+      "checksum": "73f55726-5feb-9f84-eeb7-3a2173aaaab9",
+      "date_format": 0,
+      "release_region": 8
+    },
+    {
+      "id": 753115,
+      "created_at": 1749397325,
+      "date": 1428969600,
+      "game": 134710,
+      "human": "Apr 14, 2015",
+      "m": 4,
+      "platform": 6,
+      "updated_at": 1749721198,
+      "y": 2015,
+      "checksum": "96a355e0-8ad8-e860-2a3f-1e7885eb6710",
+      "date_format": 0,
+      "release_region": 8
+    },
+    {
+      "id": 753116,
+      "created_at": 1749397325,
+      "date": 1416268800,
+      "game": 134710,
+      "human": "Nov 18, 2014",
+      "m": 11,
+      "platform": 48,
+      "updated_at": 1749721198,
+      "y": 2014,
+      "checksum": "eb7ed75e-d259-3058-4c65-9ed0f17bf216",
+      "date_format": 0,
+      "release_region": 8
+    },
+    {
+      "id": 753117,
+      "created_at": 1749397325,
+      "date": 1416268800,
+      "game": 134710,
+      "human": "Nov 18, 2014",
+      "m": 11,
+      "platform": 49,
+      "updated_at": 1749721198,
+      "y": 2014,
+      "checksum": "b1c4cd0d-a27b-9401-1c4e-e80f8465367f",
+      "date_format": 0,
+      "release_region": 8
+    },
+    {
+      "id": 753119,
+      "created_at": 1749397325,
+      "date": 1380585600,
+      "game": 134710,
+      "human": "Oct 01, 2013",
+      "m": 10,
+      "platform": 12,
+      "updated_at": 1749721198,
+      "y": 2013,
+      "checksum": "ae4c7fed-9103-8f53-af30-22aaca7f0f35",
+      "status": 4,
+      "date_format": 0,
+      "release_region": 8
+    },
+    {
+      "id": 753118,
+      "created_at": 1749397325,
+      "date": 1380585600,
+      "game": 134710,
+      "human": "Oct 01, 2013",
+      "m": 10,
+      "platform": 9,
+      "updated_at": 1749721198,
+      "y": 2013,
+      "checksum": "69339293-456e-ad9f-e283-9f6220020aff",
+      "status": 4,
+      "date_format": 0,
+      "release_region": 8
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 709860,
+      "height": 2160,
+      "image_id": "scf7qc",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scf7qc.jpg",
+      "width": 3840
+    },
+    {
+      "id": 709857,
+      "height": 2160,
+      "image_id": "scf7q9",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scf7q9.jpg",
+      "width": 3840
+    },
+    {
+      "id": 709859,
+      "height": 2160,
+      "image_id": "scf7qb",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scf7qb.jpg",
+      "width": 3840
+    },
+    {
+      "id": 709861,
+      "height": 2160,
+      "image_id": "scf7qd",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scf7qd.jpg",
+      "width": 3840
+    },
+    {
+      "id": 709856,
+      "height": 2160,
+      "image_id": "scf7q8",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scf7q8.jpg",
+      "width": 3840
+    },
+    {
+      "id": 709858,
+      "height": 2160,
+      "image_id": "scf7qa",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scf7qa.jpg",
+      "width": 3840
+    },
+    {
+      "id": 709862,
+      "height": 2160,
+      "image_id": "scf7qe",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scf7qe.jpg",
+      "width": 3840
+    },
+    {
+      "id": 709863,
+      "height": 2160,
+      "image_id": "scf7qf",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scf7qf.jpg",
+      "width": 3840
+    },
+    {
+      "id": 709864,
+      "height": 2160,
+      "image_id": "scf7qg",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scf7qg.jpg",
+      "width": 3840
+    },
+    {
+      "id": 709865,
+      "height": 2160,
+      "image_id": "scf7qh",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scf7qh.jpg",
+      "width": 3840
+    },
+    {
+      "id": 709866,
+      "height": 2160,
+      "image_id": "scf7qi",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scf7qi.jpg",
+      "width": 3840
+    },
+    {
+      "id": 709867,
+      "height": 2160,
+      "image_id": "scf7qj",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scf7qj.jpg",
+      "width": 3840
+    }
+  ],
+  "summary": "Grand Theft Auto Online is an online multiplayer action-adventure game, and is a standalone version of Grand Theft Auto V. Set within the fictional state of San Andreas (based on Southern California), Grand Theft Auto Online allows up to 30 players to explore its open world environment and engage in cooperative or competitive game matches. The game features a range of technical and graphical improvements across the entire experience including performance enhancements for select vehicles in GTA Online, and so much more.",
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Comedy"
+    },
+    {
+      "id": 33,
+      "name": "Sandbox"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "earliest_release_date": 1380585600,
+  "all_regions": [],
+  "status_display": "Released (Вышла)",
+  "russian_support": "None",
+  "dlcs_data": [
+    {
+      "name": "Grand Theft Auto V: Story Mode",
+      "id": 239060
+    }
+  ],
+  "parent_game_data": [
+    {
+      "name": "Grand Theft Auto V",
+      "id": 1020
+    }
+  ],
+  "franchise_data": [
+    {
+      "name": "Grand Theft Auto",
+      "id": 493
+    }
+  ],
+  "remakes_remasters_data": [],
+  "dlc_link_str": "<a href='game:239060|Grand Theft Auto V: Story Mode' style='color: #00d4ff; text-decoration: none;'>Grand Theft Auto V: Story Mode</a>",
+  "parent_link_str": "<a href='game:1020|Grand Theft Auto V' style='color: #00d4ff; text-decoration: none;'>Grand Theft Auto V</a>",
+  "franchise_link_str": "<a href='franchise:493|Grand Theft Auto' style='color: #00d4ff; text-decoration: none;'>Grand Theft Auto</a>",
+  "remake_link_str": "—",
+  "dlcs_str": "Grand Theft Auto V: Story Mode",
+  "parent_game_str": "Grand Theft Auto V",
+  "franchise_str": "Grand Theft Auto",
+  "remakes_remasters_str": "",
+  "mixed_genres": "Shooter; Adventure; Action; Comedy; Sandbox; Open world; First person; Third person",
+  "developers_list": [
+    "Rockstar North"
+  ],
+  "publishers_list": [
+    "Rockstar Games"
+  ],
+  "max_local_players": 2,
+  "description": "Grand Theft Auto Online is an online multiplayer action-adventure game, and is a standalone version of Grand Theft Auto V. Set within the fictional state of San Andreas (based on Southern California), Grand Theft Auto Online allows up to 30 players to explore its open world environment and engage in cooperative or competitive game matches. The game features a range of technical and graphical improvements across the entire experience including performance enhancements for select vehicles in GTA Online, and so much more.",
+  "edition": "",
+  "cover_url_thumb": "https://images.igdb.com/igdb/image/upload/t_cover_small/co4rq1.jpg",
+  "cover_url_medium": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4rq1.jpg",
+  "cover_url_large": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co4rq1.jpg",
+  "cover_url_full": "https://images.igdb.com/igdb/image/upload/t_original/co4rq1.jpg",
+  "screenshot_urls": [
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scf7qc.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scf7qc.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scf7qc.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scf7q9.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scf7q9.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scf7q9.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scf7qb.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scf7qb.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scf7qb.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scf7qd.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scf7qd.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scf7qd.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scf7q8.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scf7q8.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scf7q8.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scf7qa.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scf7qa.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scf7qa.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scf7qe.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scf7qe.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scf7qe.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scf7qf.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scf7qf.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scf7qf.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scf7qg.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scf7qg.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scf7qg.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scf7qh.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scf7qh.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scf7qh.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scf7qi.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scf7qi.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scf7qi.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scf7qj.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scf7qj.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scf7qj.jpg"
+    }
+  ]
+}

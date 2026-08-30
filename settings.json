@@ -1,0 +1,13 @@
+{
+  "IGDB_CLIENT_ID": "uxx0hdqwc5uxijk669jh3yocveeig8",
+  "IGDB_CLIENT_SECRET": "ekkjkafg7ftjnq64ly6dykvf1v6620",
+  "MOBYGAMES_API_KEY": "",
+  "RETROACHIEVEMENTS_USER": "ReiKatari",
+  "RETROACHIEVEMENTS_API_KEY": "T4czIq8jj5DJppFQW3I75ovwOzoudfKp",
+  "CACHE_SEARCH_INFO": true,
+  "CACHE_SEARCH_COVER": true,
+  "CACHE_SEARCH_SS": true,
+  "CACHE_ALL_INFO": true,
+  "CACHE_ALL_COVER": true,
+  "CACHE_ALL_SS": true
+}

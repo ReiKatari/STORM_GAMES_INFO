@@ -1,0 +1,213 @@
+{
+  "id": 3266,
+  "aggregated_rating": 60.0,
+  "cover": {
+    "id": 120939,
+    "height": 1580,
+    "image_id": "co2lbf",
+    "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2lbf.jpg",
+    "width": 1185
+  },
+  "first_release_date": 1098748800,
+  "franchises": [
+    {
+      "id": 493,
+      "name": "Grand Theft Auto"
+    }
+  ],
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 10,
+      "name": "Racing"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 8520,
+      "company": {
+        "id": 29,
+        "name": "Rockstar Games"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 8519,
+      "company": {
+        "id": 888,
+        "name": "Digital Eclipse"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Grand Theft Auto Advance",
+  "platforms": [
+    {
+      "id": 24,
+      "name": "Game Boy Advance"
+    }
+  ],
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "rating": 51.68741477784179,
+  "release_dates": [
+    {
+      "id": 170069,
+      "created_at": 1558806966,
+      "date": 1098748800,
+      "game": 3266,
+      "human": "Oct 26, 2004",
+      "m": 10,
+      "platform": 24,
+      "updated_at": 1739914831,
+      "y": 2004,
+      "checksum": "b285d606-d479-6220-e3bc-ab4a511d3606",
+      "date_format": 0,
+      "release_region": 2
+    },
+    {
+      "id": 170070,
+      "created_at": 1558806966,
+      "date": 1099008000,
+      "game": 3266,
+      "human": "Oct 29, 2004",
+      "m": 10,
+      "platform": 24,
+      "updated_at": 1739914831,
+      "y": 2004,
+      "checksum": "03049132-a554-4608-bd67-dae0d36c2d63",
+      "date_format": 0,
+      "release_region": 1
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 14945,
+      "height": 330,
+      "image_id": "dax7pjdj7etupay2x7sh",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/dax7pjdj7etupay2x7sh.jpg",
+      "width": 500
+    },
+    {
+      "id": 14946,
+      "height": 330,
+      "image_id": "mi1pyyv0jijcahtqpwyt",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/mi1pyyv0jijcahtqpwyt.jpg",
+      "width": 500
+    },
+    {
+      "id": 1620499,
+      "height": 720,
+      "image_id": "scyqdv",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyqdv.jpg",
+      "width": 1266
+    },
+    {
+      "id": 1620500,
+      "height": 720,
+      "image_id": "scyqdw",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyqdw.jpg",
+      "width": 1267
+    }
+  ],
+  "summary": "Grand Theft Auto Advance is a handheld console game developed by Digital Eclipse, published by Rockstar Games, and released on October 26, 2004 for the Game Boy Advance. It is the only Grand Theft Auto game to not be developed by a Rockstar studio (formerly DMA Design).\nThe game is played from a top-down perspective; this view angle was seen on the first two games in the series, Grand Theft Auto and Grand Theft Auto 2, but vehicle-based side-missions (such as \"Vigilante\" and \"Paramedic\"), the heads-up display and a large majority of the weapons, first introduced in the three-dimensional counterparts, have also been included. Unlike previous top-down Grand Theft Auto games, vehicles can now flip over. It is the first game from the Grand Theft Auto series which got a 16+ rating from PEGI and an M rating (recommended for mature audiences though any age is still allowed access) from the Australian Classification Board. The game was released on the same day as the North American release of Grand Theft Auto: San Andreas.",
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 33,
+      "name": "Sandbox"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "game_localizations": [
+    {
+      "id": 22115,
+      "name": "Grand Theft Auto",
+      "region": 4
+    }
+  ],
+  "earliest_release_date": 1098748800,
+  "all_regions": [
+    "New Zealand (NZ)"
+  ],
+  "status_display": "Released (Вышла)",
+  "russian_support": "None",
+  "dlcs_data": [],
+  "parent_game_data": [],
+  "franchise_data": [
+    {
+      "name": "Grand Theft Auto",
+      "id": 493
+    }
+  ],
+  "remakes_remasters_data": [],
+  "dlc_link_str": "—",
+  "parent_link_str": "—",
+  "franchise_link_str": "<a href='franchise:493|Grand Theft Auto' style='color: #00d4ff; text-decoration: none;'>Grand Theft Auto</a>",
+  "remake_link_str": "—",
+  "dlcs_str": "",
+  "parent_game_str": "",
+  "franchise_str": "Grand Theft Auto",
+  "remakes_remasters_str": "",
+  "mixed_genres": "Shooter; Racing; Adventure; Action; Sandbox; Open world; Bird view / Isometric",
+  "developers_list": [
+    "Digital Eclipse"
+  ],
+  "publishers_list": [
+    "Rockstar Games"
+  ],
+  "max_local_players": 1,
+  "description": "Grand Theft Auto Advance is a handheld console game developed by Digital Eclipse, published by Rockstar Games, and released on October 26, 2004 for the Game Boy Advance. It is the only Grand Theft Auto game to not be developed by a Rockstar studio (formerly DMA Design).\nThe game is played from a top-down perspective; this view angle was seen on the first two games in the series, Grand Theft Auto and Grand Theft Auto 2, but vehicle-based side-missions (such as \"Vigilante\" and \"Paramedic\"), the heads-up display and a large majority of the weapons, first introduced in the three-dimensional counterparts, have also been included. Unlike previous top-down Grand Theft Auto games, vehicles can now flip over. It is the first game from the Grand Theft Auto series which got a 16+ rating from PEGI and an M rating (recommended for mature audiences though any age is still allowed access) from the Australian Classification Board. The game was released on the same day as the North American release of Grand Theft Auto: San Andreas.",
+  "edition": "",
+  "cover_url_thumb": "https://images.igdb.com/igdb/image/upload/t_cover_small/co2lbf.jpg",
+  "cover_url_medium": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lbf.jpg",
+  "cover_url_large": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2lbf.jpg",
+  "cover_url_full": "https://images.igdb.com/igdb/image/upload/t_original/co2lbf.jpg",
+  "screenshot_urls": [
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/dax7pjdj7etupay2x7sh.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/dax7pjdj7etupay2x7sh.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/dax7pjdj7etupay2x7sh.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/mi1pyyv0jijcahtqpwyt.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/mi1pyyv0jijcahtqpwyt.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/mi1pyyv0jijcahtqpwyt.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyqdv.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scyqdv.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scyqdv.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyqdw.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scyqdw.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scyqdw.jpg"
+    }
+  ]
+}

@@ -1,0 +1,837 @@
+{
+  "id": 1020,
+  "aggregated_rating": 88.13793103448276,
+  "cover": {
+    "id": 120937,
+    "height": 1580,
+    "image_id": "co2lbd",
+    "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2lbd.jpg",
+    "width": 1185
+  },
+  "first_release_date": 1379376000,
+  "franchises": [
+    {
+      "id": 493,
+      "name": "Grand Theft Auto"
+    }
+  ],
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 10,
+      "name": "Racing"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 20018,
+      "company": {
+        "id": 139,
+        "name": "Take-Two Interactive"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 18071,
+      "company": {
+        "id": 29,
+        "name": "Rockstar Games"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 18070,
+      "company": {
+        "id": 365,
+        "name": "Rockstar North"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 246057,
+      "company": {
+        "id": 306,
+        "name": "Rockstar Toronto"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "multiplayer_modes": [
+    {
+      "id": 1045,
+      "campaigncoop": false,
+      "dropin": true,
+      "game": 1020,
+      "lancoop": false,
+      "offlinecoop": false,
+      "offlinecoopmax": 0,
+      "offlinemax": 0,
+      "onlinecoop": true,
+      "onlinecoopmax": 16,
+      "onlinemax": 0,
+      "platform": 9,
+      "splitscreen": false,
+      "checksum": "7dc5cff3-8b3d-61fe-b315-03fccc00632b"
+    },
+    {
+      "id": 12794,
+      "campaigncoop": false,
+      "dropin": false,
+      "game": 1020,
+      "lancoop": false,
+      "offlinecoop": false,
+      "offlinecoopmax": 0,
+      "offlinemax": 0,
+      "onlinecoop": true,
+      "onlinecoopmax": 0,
+      "onlinemax": 30,
+      "platform": 49,
+      "splitscreen": false,
+      "checksum": "4b3583b4-75b7-2a95-0d36-e35cb142a057"
+    },
+    {
+      "id": 12795,
+      "campaigncoop": false,
+      "dropin": false,
+      "game": 1020,
+      "lancoop": false,
+      "offlinecoop": false,
+      "onlinecoop": true,
+      "platform": 6,
+      "splitscreen": false,
+      "checksum": "ec7d915e-7cdf-2f53-31cf-2348ccdf72b2"
+    }
+  ],
+  "name": "Grand Theft Auto V",
+  "platforms": [
+    {
+      "id": 9,
+      "name": "PlayStation 3"
+    },
+    {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    {
+      "id": 12,
+      "name": "Xbox 360"
+    },
+    {
+      "id": 49,
+      "name": "Xbox One"
+    }
+  ],
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    },
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "rating": 89.62603372179869,
+  "release_dates": [
+    {
+      "id": 20291,
+      "created_at": 1411048982,
+      "date": 1416268800,
+      "game": 1020,
+      "human": "Nov 18, 2014",
+      "m": 11,
+      "platform": 48,
+      "updated_at": 1757006754,
+      "y": 2014,
+      "checksum": "6919b7e1-055d-5816-40fd-4211dfbd138a",
+      "date_format": 0,
+      "release_region": 8
+    },
+    {
+      "id": 403430,
+      "created_at": 1667249395,
+      "date": 1428883200,
+      "game": 1020,
+      "human": "Apr 13, 2015",
+      "m": 4,
+      "platform": 6,
+      "updated_at": 1757006754,
+      "y": 2015,
+      "checksum": "983f69c2-66dd-f7ea-23f5-7351dbc4c0f2",
+      "date_format": 0,
+      "release_region": 8
+    },
+    {
+      "id": 20294,
+      "created_at": 1411048982,
+      "date": 1379376000,
+      "game": 1020,
+      "human": "Sep 17, 2013",
+      "m": 9,
+      "platform": 9,
+      "updated_at": 1757006754,
+      "y": 2013,
+      "checksum": "6d816c99-f3b8-b91b-7683-a66e27588070",
+      "date_format": 0,
+      "release_region": 8
+    },
+    {
+      "id": 20293,
+      "created_at": 1411048982,
+      "date": 1379376000,
+      "game": 1020,
+      "human": "Sep 17, 2013",
+      "m": 9,
+      "platform": 12,
+      "updated_at": 1757006754,
+      "y": 2013,
+      "checksum": "218dfada-88b0-3cf2-2742-9411f43954f3",
+      "date_format": 0,
+      "release_region": 8
+    },
+    {
+      "id": 20290,
+      "created_at": 1411048982,
+      "date": 1416268800,
+      "game": 1020,
+      "human": "Nov 18, 2014",
+      "m": 11,
+      "platform": 49,
+      "updated_at": 1757006754,
+      "y": 2014,
+      "checksum": "e4b2b712-cf3b-a218-a42d-d73d35aedc9e",
+      "date_format": 0,
+      "release_region": 8
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 5673,
+      "height": 720,
+      "image_id": "hjnzngnrtwr82jzmmkef",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/hjnzngnrtwr82jzmmkef.jpg",
+      "width": 1280
+    },
+    {
+      "id": 6913,
+      "height": 720,
+      "image_id": "n3t2agwuxlqggp3kryf9",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/n3t2agwuxlqggp3kryf9.jpg",
+      "width": 1280
+    },
+    {
+      "id": 5670,
+      "height": 720,
+      "image_id": "o7q3ikzmkjxbftrd64ok",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/o7q3ikzmkjxbftrd64ok.jpg",
+      "width": 1280
+    },
+    {
+      "id": 5672,
+      "height": 720,
+      "image_id": "eepecmqsq6uqxiaukar1",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/eepecmqsq6uqxiaukar1.jpg",
+      "width": 1280
+    },
+    {
+      "id": 5671,
+      "height": 720,
+      "image_id": "vfdeo6kgu0o4cyzd0sng",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/vfdeo6kgu0o4cyzd0sng.jpg",
+      "width": 1280
+    },
+    {
+      "id": 5674,
+      "height": 720,
+      "image_id": "glvmulyejlde31q8b70z",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/glvmulyejlde31q8b70z.jpg",
+      "width": 1280
+    },
+    {
+      "id": 1699381,
+      "height": 415,
+      "image_id": "sc10f91",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10f91.jpg",
+      "width": 739
+    },
+    {
+      "id": 1699382,
+      "height": 720,
+      "image_id": "sc10f92",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10f92.jpg",
+      "width": 1280
+    },
+    {
+      "id": 1699383,
+      "height": 534,
+      "image_id": "sc10f93",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10f93.jpg",
+      "width": 950
+    },
+    {
+      "id": 1699384,
+      "height": 600,
+      "image_id": "sc10f94",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10f94.jpg",
+      "width": 1068
+    },
+    {
+      "id": 1699385,
+      "height": 1080,
+      "image_id": "sc10f95",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10f95.jpg",
+      "width": 1920
+    },
+    {
+      "id": 1699386,
+      "height": 1000,
+      "image_id": "sc10f96",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10f96.jpg",
+      "width": 1777
+    },
+    {
+      "id": 1699387,
+      "height": 415,
+      "image_id": "sc10f97",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10f97.jpg",
+      "width": 739
+    },
+    {
+      "id": 1699388,
+      "height": 360,
+      "image_id": "sc10f98",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10f98.jpg",
+      "width": 640
+    },
+    {
+      "id": 1699389,
+      "height": 360,
+      "image_id": "sc10f99",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10f99.jpg",
+      "width": 640
+    },
+    {
+      "id": 1699390,
+      "height": 545,
+      "image_id": "sc10f9a",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10f9a.jpg",
+      "width": 970
+    },
+    {
+      "id": 1699391,
+      "height": 422,
+      "image_id": "sc10f9b",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10f9b.jpg",
+      "width": 750
+    },
+    {
+      "id": 1699392,
+      "height": 720,
+      "image_id": "sc10f9c",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10f9c.jpg",
+      "width": 1280
+    }
+  ],
+  "standalone_expansions": [
+    {
+      "id": 134710,
+      "name": "Grand Theft Auto Online"
+    }
+  ],
+  "storyline": "Los Santos: a sprawling sun-soaked metropolis full of self-help gurus, starlets and fading celebrities, once the envy of the Western world, now struggling to stay afloat in an era of economic uncertainty and cheap reality TV.\n\nAmidst the turmoil, three very different criminals plot their own chances of survival and success: Franklin, a street hustler looking for real opportunities and serious money; Michael, a professional ex-con whose retirement is a lot less rosy than he hoped it would be; and Trevor, a violent maniac driven by the chance of a cheap high and the next big score. Running out of options, the crew risks everything in a series of daring",
+  "summary": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Comedy"
+    },
+    {
+      "id": 33,
+      "name": "Sandbox"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "language_supports": [
+    {
+      "id": 21178,
+      "language": {
+        "id": 7,
+        "name": "English"
+      },
+      "language_support_type": {
+        "id": 1,
+        "name": "Audio"
+      }
+    },
+    {
+      "id": 21176,
+      "language": {
+        "id": 7,
+        "name": "English"
+      },
+      "language_support_type": {
+        "id": 3,
+        "name": "Interface"
+      }
+    },
+    {
+      "id": 21180,
+      "language": {
+        "id": 7,
+        "name": "English"
+      },
+      "language_support_type": {
+        "id": 2,
+        "name": "Subtitles"
+      }
+    },
+    {
+      "id": 21184,
+      "language": {
+        "id": 12,
+        "name": "French"
+      },
+      "language_support_type": {
+        "id": 2,
+        "name": "Subtitles"
+      }
+    },
+    {
+      "id": 21182,
+      "language": {
+        "id": 12,
+        "name": "French"
+      },
+      "language_support_type": {
+        "id": 3,
+        "name": "Interface"
+      }
+    },
+    {
+      "id": 21186,
+      "language": {
+        "id": 15,
+        "name": "Italian"
+      },
+      "language_support_type": {
+        "id": 3,
+        "name": "Interface"
+      }
+    },
+    {
+      "id": 21192,
+      "language": {
+        "id": 27,
+        "name": "German"
+      },
+      "language_support_type": {
+        "id": 2,
+        "name": "Subtitles"
+      }
+    },
+    {
+      "id": 21194,
+      "language": {
+        "id": 9,
+        "name": "Spanish (Spain)"
+      },
+      "language_support_type": {
+        "id": 3,
+        "name": "Interface"
+      }
+    },
+    {
+      "id": 21188,
+      "language": {
+        "id": 15,
+        "name": "Italian"
+      },
+      "language_support_type": {
+        "id": 2,
+        "name": "Subtitles"
+      }
+    },
+    {
+      "id": 21190,
+      "language": {
+        "id": 27,
+        "name": "German"
+      },
+      "language_support_type": {
+        "id": 3,
+        "name": "Interface"
+      }
+    },
+    {
+      "id": 21195,
+      "language": {
+        "id": 9,
+        "name": "Spanish (Spain)"
+      },
+      "language_support_type": {
+        "id": 2,
+        "name": "Subtitles"
+      }
+    },
+    {
+      "id": 21196,
+      "language": {
+        "id": 17,
+        "name": "Korean"
+      },
+      "language_support_type": {
+        "id": 3,
+        "name": "Interface"
+      }
+    },
+    {
+      "id": 21197,
+      "language": {
+        "id": 17,
+        "name": "Korean"
+      },
+      "language_support_type": {
+        "id": 2,
+        "name": "Subtitles"
+      }
+    },
+    {
+      "id": 21198,
+      "language": {
+        "id": 19,
+        "name": "Polish"
+      },
+      "language_support_type": {
+        "id": 3,
+        "name": "Interface"
+      }
+    },
+    {
+      "id": 21199,
+      "language": {
+        "id": 19,
+        "name": "Polish"
+      },
+      "language_support_type": {
+        "id": 2,
+        "name": "Subtitles"
+      }
+    },
+    {
+      "id": 21201,
+      "language": {
+        "id": 21,
+        "name": "Portuguese (Brazil)"
+      },
+      "language_support_type": {
+        "id": 2,
+        "name": "Subtitles"
+      }
+    },
+    {
+      "id": 21200,
+      "language": {
+        "id": 21,
+        "name": "Portuguese (Brazil)"
+      },
+      "language_support_type": {
+        "id": 3,
+        "name": "Interface"
+      }
+    },
+    {
+      "id": 21203,
+      "language": {
+        "id": 22,
+        "name": "Russian"
+      },
+      "language_support_type": {
+        "id": 2,
+        "name": "Subtitles"
+      }
+    },
+    {
+      "id": 21202,
+      "language": {
+        "id": 22,
+        "name": "Russian"
+      },
+      "language_support_type": {
+        "id": 3,
+        "name": "Interface"
+      }
+    },
+    {
+      "id": 21207,
+      "language": {
+        "id": 3,
+        "name": "Chinese (Traditional)"
+      },
+      "language_support_type": {
+        "id": 2,
+        "name": "Subtitles"
+      }
+    },
+    {
+      "id": 21205,
+      "language": {
+        "id": 3,
+        "name": "Chinese (Traditional)"
+      },
+      "language_support_type": {
+        "id": 3,
+        "name": "Interface"
+      }
+    },
+    {
+      "id": 21209,
+      "language": {
+        "id": 16,
+        "name": "Japanese"
+      },
+      "language_support_type": {
+        "id": 3,
+        "name": "Interface"
+      }
+    },
+    {
+      "id": 21211,
+      "language": {
+        "id": 16,
+        "name": "Japanese"
+      },
+      "language_support_type": {
+        "id": 2,
+        "name": "Subtitles"
+      }
+    },
+    {
+      "id": 21214,
+      "language": {
+        "id": 2,
+        "name": "Chinese (Simplified)"
+      },
+      "language_support_type": {
+        "id": 3,
+        "name": "Interface"
+      }
+    },
+    {
+      "id": 21215,
+      "language": {
+        "id": 2,
+        "name": "Chinese (Simplified)"
+      },
+      "language_support_type": {
+        "id": 2,
+        "name": "Subtitles"
+      }
+    },
+    {
+      "id": 470382,
+      "language": {
+        "id": 10,
+        "name": "Spanish (Mexico)"
+      },
+      "language_support_type": {
+        "id": 3,
+        "name": "Interface"
+      }
+    },
+    {
+      "id": 722212,
+      "language": {
+        "id": 10,
+        "name": "Spanish (Mexico)"
+      },
+      "language_support_type": {
+        "id": 2,
+        "name": "Subtitles"
+      }
+    }
+  ],
+  "game_localizations": [
+    {
+      "id": 1480,
+      "name": "그랜드 테프트 오토 5",
+      "region": 2
+    },
+    {
+      "id": 1479,
+      "name": "グランド セフト オートV",
+      "region": 3
+    }
+  ],
+  "earliest_release_date": 1379376000,
+  "all_regions": [
+    "Australia (AU)",
+    "North America (NA)"
+  ],
+  "status_display": "Released (Вышла)",
+  "russian_support": "Interface, Subtitles",
+  "dlcs_data": [
+    {
+      "name": "Grand Theft Auto Online",
+      "id": 134710
+    }
+  ],
+  "parent_game_data": [],
+  "franchise_data": [
+    {
+      "name": "Grand Theft Auto",
+      "id": 493
+    }
+  ],
+  "remakes_remasters_data": [],
+  "dlc_link_str": "<a href='game:134710|Grand Theft Auto Online' style='color: #00d4ff; text-decoration: none;'>Grand Theft Auto Online</a>",
+  "parent_link_str": "—",
+  "franchise_link_str": "<a href='franchise:493|Grand Theft Auto' style='color: #00d4ff; text-decoration: none;'>Grand Theft Auto</a>",
+  "remake_link_str": "—",
+  "dlcs_str": "Grand Theft Auto Online",
+  "parent_game_str": "",
+  "franchise_str": "Grand Theft Auto",
+  "remakes_remasters_str": "",
+  "mixed_genres": "Shooter; Racing; Adventure; Action; Comedy; Sandbox; Open world; First person; Third person",
+  "developers_list": [
+    "Rockstar North"
+  ],
+  "publishers_list": [
+    "Take-Two Interactive",
+    "Rockstar Games"
+  ],
+  "max_local_players": 2,
+  "description": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
+  "edition": "",
+  "cover_url_thumb": "https://images.igdb.com/igdb/image/upload/t_cover_small/co2lbd.jpg",
+  "cover_url_medium": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lbd.jpg",
+  "cover_url_large": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2lbd.jpg",
+  "cover_url_full": "https://images.igdb.com/igdb/image/upload/t_original/co2lbd.jpg",
+  "screenshot_urls": [
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/hjnzngnrtwr82jzmmkef.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/hjnzngnrtwr82jzmmkef.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/hjnzngnrtwr82jzmmkef.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/n3t2agwuxlqggp3kryf9.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/n3t2agwuxlqggp3kryf9.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/n3t2agwuxlqggp3kryf9.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/o7q3ikzmkjxbftrd64ok.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/o7q3ikzmkjxbftrd64ok.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/o7q3ikzmkjxbftrd64ok.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/eepecmqsq6uqxiaukar1.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/eepecmqsq6uqxiaukar1.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/eepecmqsq6uqxiaukar1.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/vfdeo6kgu0o4cyzd0sng.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/vfdeo6kgu0o4cyzd0sng.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/vfdeo6kgu0o4cyzd0sng.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/glvmulyejlde31q8b70z.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/glvmulyejlde31q8b70z.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/glvmulyejlde31q8b70z.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10f91.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc10f91.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/sc10f91.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10f92.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc10f92.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/sc10f92.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10f93.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc10f93.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/sc10f93.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10f94.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc10f94.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/sc10f94.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10f95.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc10f95.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/sc10f95.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10f96.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc10f96.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/sc10f96.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10f97.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc10f97.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/sc10f97.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10f98.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc10f98.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/sc10f98.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10f99.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc10f99.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/sc10f99.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10f9a.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc10f9a.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/sc10f9a.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10f9b.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc10f9b.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/sc10f9b.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10f9c.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc10f9c.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/sc10f9c.jpg"
+    }
+  ]
+}

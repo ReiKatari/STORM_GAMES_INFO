@@ -1,0 +1,278 @@
+{
+  "id": 973,
+  "aggregated_rating": 60.0,
+  "cover": {
+    "id": 134990,
+    "height": 1333,
+    "image_id": "co2w5q",
+    "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2w5q.jpg",
+    "width": 1000
+  },
+  "first_release_date": 1094688000,
+  "franchises": [
+    {
+      "id": 29,
+      "name": "Resident Evil"
+    }
+  ],
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 183644,
+      "company": {
+        "id": 37,
+        "name": "Capcom"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 183645,
+      "company": {
+        "id": 660,
+        "name": "Capcom Production Studio 1"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Resident Evil Outbreak File #2",
+  "parent_game": {
+    "id": 972,
+    "name": "Resident Evil Outbreak"
+  },
+  "platforms": [
+    {
+      "id": 8,
+      "name": "PlayStation 2"
+    }
+  ],
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "rating": 71.98135570622206,
+  "release_dates": [
+    {
+      "id": 381177,
+      "created_at": 1660859821,
+      "date": 1114473600,
+      "game": 973,
+      "human": "Apr 26, 2005",
+      "m": 4,
+      "platform": 8,
+      "updated_at": 1660871407,
+      "y": 2005,
+      "checksum": "c32770dc-5172-13ee-66cb-a8629f45390e",
+      "date_format": 0,
+      "release_region": 2
+    },
+    {
+      "id": 381178,
+      "created_at": 1660859821,
+      "date": 1125014400,
+      "game": 973,
+      "human": "Aug 26, 2005",
+      "m": 8,
+      "platform": 8,
+      "updated_at": 1660871407,
+      "y": 2005,
+      "checksum": "ac851792-9032-7305-5e23-98b45d8e6a5f",
+      "date_format": 0,
+      "release_region": 1
+    },
+    {
+      "id": 381176,
+      "created_at": 1660859821,
+      "date": 1094688000,
+      "game": 973,
+      "human": "Sep 09, 2004",
+      "m": 9,
+      "platform": 8,
+      "updated_at": 1660871407,
+      "y": 2004,
+      "checksum": "917a851f-02a3-bb9d-2b74-9ce843a78436",
+      "date_format": 0,
+      "release_region": 5
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 859097,
+      "height": 480,
+      "image_id": "scievt",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scievt.jpg",
+      "width": 640
+    },
+    {
+      "id": 859098,
+      "height": 480,
+      "image_id": "scievu",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scievu.jpg",
+      "width": 640
+    },
+    {
+      "id": 859099,
+      "height": 480,
+      "image_id": "scievv",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scievv.jpg",
+      "width": 640
+    },
+    {
+      "id": 859100,
+      "height": 480,
+      "image_id": "scievw",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scievw.jpg",
+      "width": 640
+    },
+    {
+      "id": 859101,
+      "height": 480,
+      "image_id": "scievx",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scievx.jpg",
+      "width": 640
+    },
+    {
+      "id": 859102,
+      "height": 480,
+      "image_id": "scievy",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scievy.jpg",
+      "width": 640
+    },
+    {
+      "id": 859103,
+      "height": 480,
+      "image_id": "scievz",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scievz.jpg",
+      "width": 640
+    }
+  ],
+  "storyline": "Raccoon City has been infected by the Umbrella corporation's deadly T-Virus, a mutagenic toxin that turns its human victims into flesh eating zombies. The few survivors must try to escape the city before the government deploys its final solution to the problem of Raccoon City...",
+  "summary": "Resident Evil Outbreak File #2 is a survival-horror game released exclusively for the PlayStation 2 and a sequel to Resident Evil Outbreak, which was originally envisioned as a much larger game before being cut into multiple releases. The same eight characters from the first title return with similar abilities, and the game takes place once again in a zombie-run Raccoon City. The new game has several new scenarios and boasts new gameplay developments for the Resident Evil series. Loading times have been reduced and while the previous Outbreak was on-line enabled in the US, this game is the first on-line Resident Evil game in Europe.\n\nThe locals featured in this game include both the familiar (The Raccoon Police Department) and the exotic (A mutated jungle at mid-day) ones. The game boasts a hefty amount of unlockable material such as artworks, notes, trivia, and character costumes. The game is backwards compatible with your save file from Resident Evil Outbreak, meaning that you can take your unlocked content to this new setting.",
+  "themes": [
+    {
+      "id": 19,
+      "name": "Horror"
+    },
+    {
+      "id": 21,
+      "name": "Survival"
+    }
+  ],
+  "game_localizations": [
+    {
+      "id": 255,
+      "name": "バイオハザード アウトブレイク ファイル2",
+      "region": 3
+    },
+    {
+      "id": 256,
+      "region": 4
+    }
+  ],
+  "earliest_release_date": 1094688000,
+  "all_regions": [
+    "Australia (AU)",
+    "New Zealand (NZ)"
+  ],
+  "status_display": "Released (Вышла)",
+  "russian_support": "None",
+  "dlcs_data": [],
+  "parent_game_data": [
+    {
+      "name": "Resident Evil Outbreak",
+      "id": 972
+    }
+  ],
+  "franchise_data": [
+    {
+      "name": "Resident Evil",
+      "id": 29
+    }
+  ],
+  "remakes_remasters_data": [],
+  "dlc_link_str": "—",
+  "parent_link_str": "<a href='game:972|Resident Evil Outbreak' style='color: #00d4ff; text-decoration: none;'>Resident Evil Outbreak</a>",
+  "franchise_link_str": "<a href='franchise:29|Resident Evil' style='color: #00d4ff; text-decoration: none;'>Resident Evil</a>",
+  "remake_link_str": "—",
+  "dlcs_str": "",
+  "parent_game_str": "Resident Evil Outbreak",
+  "franchise_str": "Resident Evil",
+  "remakes_remasters_str": "",
+  "mixed_genres": "Shooter; Puzzle; Adventure; Horror; Survival; Third person",
+  "developers_list": [
+    "Capcom Production Studio 1"
+  ],
+  "publishers_list": [
+    "Capcom"
+  ],
+  "max_local_players": 2,
+  "description": "Resident Evil Outbreak File #2 is a survival-horror game released exclusively for the PlayStation 2 and a sequel to Resident Evil Outbreak, which was originally envisioned as a much larger game before being cut into multiple releases. The same eight characters from the first title return with similar abilities, and the game takes place once again in a zombie-run Raccoon City. The new game has several new scenarios and boasts new gameplay developments for the Resident Evil series. Loading times have been reduced and while the previous Outbreak was on-line enabled in the US, this game is the first on-line Resident Evil game in Europe.\n\nThe locals featured in this game include both the familiar (The Raccoon Police Department) and the exotic (A mutated jungle at mid-day) ones. The game boasts a hefty amount of unlockable material such as artworks, notes, trivia, and character costumes. The game is backwards compatible with your save file from Resident Evil Outbreak, meaning that you can take your unlocked content to this new setting.",
+  "edition": "",
+  "cover_url_thumb": "https://images.igdb.com/igdb/image/upload/t_cover_small/co2w5q.jpg",
+  "cover_url_medium": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2w5q.jpg",
+  "cover_url_large": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2w5q.jpg",
+  "cover_url_full": "https://images.igdb.com/igdb/image/upload/t_original/co2w5q.jpg",
+  "screenshot_urls": [
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scievt.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scievt.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scievt.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scievu.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scievu.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scievu.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scievv.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scievv.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scievv.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scievw.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scievw.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scievw.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scievx.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scievx.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scievx.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scievy.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scievy.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scievy.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scievz.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scievz.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scievz.jpg"
+    }
+  ]
+}

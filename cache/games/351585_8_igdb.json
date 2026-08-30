@@ -1,0 +1,147 @@
+{
+  "id": 351585,
+  "first_release_date": 1731369600,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 327688,
+      "company": {
+        "id": 65066,
+        "name": "hobi gamez"
+      },
+      "developer": true,
+      "publisher": true
+    }
+  ],
+  "name": "Resident Evil 4: A Nightmare of Evil",
+  "parent_game": {
+    "id": 145191,
+    "name": "Resident Evil 4"
+  },
+  "platforms": [
+    {
+      "id": 8,
+      "name": "PlayStation 2"
+    }
+  ],
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "release_dates": [
+    {
+      "id": 762870,
+      "created_at": 1751158564,
+      "date": 1731369600,
+      "game": 351585,
+      "human": "Nov 12, 2024",
+      "m": 11,
+      "platform": 8,
+      "updated_at": 1751930833,
+      "y": 2024,
+      "checksum": "0062a715-514f-2f3b-cd48-3ff2eefd5dac",
+      "status": 6,
+      "date_format": 0,
+      "release_region": 8
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 1575114,
+      "height": 191,
+      "image_id": "scxrd6",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxrd6.jpg",
+      "width": 320
+    },
+    {
+      "id": 1575115,
+      "height": 191,
+      "image_id": "scxrd7",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxrd7.jpg",
+      "width": 320
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 21,
+      "name": "Survival"
+    }
+  ],
+  "language_supports": [
+    {
+      "id": 1296431,
+      "language": {
+        "id": 7,
+        "name": "English"
+      },
+      "language_support_type": {
+        "id": 3,
+        "name": "Interface"
+      }
+    }
+  ],
+  "earliest_release_date": 1731369600,
+  "all_regions": [],
+  "status_display": "Released (Вышла)",
+  "russian_support": "None",
+  "dlcs_data": [],
+  "parent_game_data": [
+    {
+      "name": "Resident Evil 4",
+      "id": 145191
+    }
+  ],
+  "franchise_data": [],
+  "remakes_remasters_data": [],
+  "dlc_link_str": "—",
+  "parent_link_str": "<a href='game:145191|Resident Evil 4' style='color: #00d4ff; text-decoration: none;'>Resident Evil 4</a>",
+  "franchise_link_str": "—",
+  "remake_link_str": "—",
+  "dlcs_str": "",
+  "parent_game_str": "Resident Evil 4",
+  "franchise_str": "",
+  "remakes_remasters_str": "",
+  "mixed_genres": "Shooter; Action; Survival; Third person",
+  "developers_list": [
+    "hobi gamez"
+  ],
+  "publishers_list": [
+    "hobi gamez"
+  ],
+  "max_local_players": 1,
+  "description": "",
+  "edition": "",
+  "cover_url_thumb": null,
+  "cover_url_medium": null,
+  "cover_url_large": null,
+  "cover_url_full": null,
+  "screenshot_urls": [
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxrd6.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scxrd6.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scxrd6.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxrd7.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scxrd7.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/scxrd7.jpg"
+    }
+  ]
+}

@@ -1,0 +1,438 @@
+{
+  "id": 24369,
+  "cover": {
+    "id": 134779,
+    "height": 854,
+    "image_id": "co2vzv",
+    "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2vzv.jpg",
+    "width": 640
+  },
+  "first_release_date": 985219200,
+  "franchises": [
+    {
+      "id": 29,
+      "name": "Resident Evil"
+    }
+  ],
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 184299,
+      "company": {
+        "id": 37,
+        "name": "Capcom"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 184301,
+      "company": {
+        "id": 663,
+        "name": "Capcom Production Studio 4"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 184300,
+      "company": {
+        "id": 323,
+        "name": "Nextech"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 184302,
+      "company": {
+        "id": 321,
+        "name": "Tose"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Resident Evil Code: Veronica X",
+  "parent_game": {
+    "id": 968,
+    "name": "Resident Evil Code: Veronica"
+  },
+  "platforms": [
+    {
+      "id": 9,
+      "name": "PlayStation 3"
+    },
+    {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    {
+      "id": 21,
+      "name": "Nintendo GameCube"
+    },
+    {
+      "id": 23,
+      "name": "Dreamcast"
+    },
+    {
+      "id": 8,
+      "name": "PlayStation 2"
+    }
+  ],
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "rating": 74.18007276496029,
+  "release_dates": [
+    {
+      "id": 321744,
+      "created_at": 1635045164,
+      "date": 985219200,
+      "game": 24369,
+      "human": "Mar 22, 2001",
+      "m": 3,
+      "platform": 23,
+      "updated_at": 1759103469,
+      "y": 2001,
+      "checksum": "959739ea-15ab-dad3-c809-8f906dba8a73",
+      "date_format": 0,
+      "release_region": 5
+    },
+    {
+      "id": 382562,
+      "created_at": 1661276972,
+      "date": 998352000,
+      "game": 24369,
+      "human": "Aug 21, 2001",
+      "m": 8,
+      "platform": 8,
+      "updated_at": 1739946509,
+      "y": 2001,
+      "checksum": "77fcaed5-d26a-5da4-9dd1-2e39880d7400",
+      "date_format": 0,
+      "release_region": 1
+    },
+    {
+      "id": 382563,
+      "created_at": 1661276972,
+      "date": 1000425600,
+      "game": 24369,
+      "human": "Sep 14, 2001",
+      "m": 9,
+      "platform": 8,
+      "updated_at": 1739946509,
+      "y": 2001,
+      "checksum": "94ee9933-0d51-44d0-06af-6c49bca0312c",
+      "date_format": 0,
+      "release_region": 1
+    },
+    {
+      "id": 382561,
+      "created_at": 1661276972,
+      "date": 985219200,
+      "game": 24369,
+      "human": "Mar 22, 2001",
+      "m": 3,
+      "platform": 8,
+      "updated_at": 1739946509,
+      "y": 2001,
+      "checksum": "d7ba882a-f3fb-8b85-07f6-f51d6abab448",
+      "date_format": 0,
+      "release_region": 5
+    },
+    {
+      "id": 382565,
+      "created_at": 1661277303,
+      "date": 1494288000,
+      "game": 24369,
+      "human": "May 09, 2017",
+      "m": 5,
+      "platform": 48,
+      "updated_at": 1739946509,
+      "y": 2017,
+      "checksum": "fdcf8c91-8633-1dc4-5ec3-ac59d2129552",
+      "date_format": 0,
+      "release_region": 2
+    },
+    {
+      "id": 382564,
+      "created_at": 1661277303,
+      "date": 1494374400,
+      "game": 24369,
+      "human": "May 10, 2017",
+      "m": 5,
+      "platform": 48,
+      "updated_at": 1739946510,
+      "y": 2017,
+      "checksum": "dab10cba-2331-ff6d-0598-7cb9d7f019c8",
+      "date_format": 0,
+      "release_region": 1
+    },
+    {
+      "id": 142762,
+      "created_at": 1517629819,
+      "date": 1079049600,
+      "game": 24369,
+      "human": "Mar 12, 2004",
+      "m": 3,
+      "platform": 21,
+      "updated_at": 1759103479,
+      "y": 2004,
+      "checksum": "66c0895d-c9f3-af9d-42e4-7564a1a2860a",
+      "date_format": 0,
+      "release_region": 1
+    },
+    {
+      "id": 382566,
+      "created_at": 1661277457,
+      "date": 1331596800,
+      "game": 24369,
+      "human": "Mar 13, 2012",
+      "m": 3,
+      "platform": 9,
+      "updated_at": 1739946510,
+      "y": 2012,
+      "checksum": "fcf43f97-e100-45f1-a5d1-bab18319ad94",
+      "date_format": 0,
+      "release_region": 5
+    },
+    {
+      "id": 142763,
+      "created_at": 1517629819,
+      "date": 1060214400,
+      "game": 24369,
+      "human": "Aug 07, 2003",
+      "m": 8,
+      "platform": 21,
+      "updated_at": 1759103479,
+      "y": 2003,
+      "checksum": "68d4517f-1508-f793-b242-1745b166d97b",
+      "date_format": 0,
+      "release_region": 5
+    },
+    {
+      "id": 142761,
+      "created_at": 1517629819,
+      "date": 1070409600,
+      "game": 24369,
+      "human": "Dec 03, 2003",
+      "m": 12,
+      "platform": 21,
+      "updated_at": 1759103479,
+      "y": 2003,
+      "checksum": "2530288f-3cf1-547e-e9af-185e7c15d0e7",
+      "date_format": 0,
+      "release_region": 2
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 170970,
+      "height": 480,
+      "image_id": "ngornmeoiu6cfvgjpn6a",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/ngornmeoiu6cfvgjpn6a.jpg",
+      "width": 640
+    },
+    {
+      "id": 170964,
+      "height": 480,
+      "image_id": "enxvsz2d4thua1yzqber",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/enxvsz2d4thua1yzqber.jpg",
+      "width": 640
+    },
+    {
+      "id": 170965,
+      "height": 480,
+      "image_id": "jlu4yjfl9wakaawrpbj7",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/jlu4yjfl9wakaawrpbj7.jpg",
+      "width": 640
+    },
+    {
+      "id": 170967,
+      "height": 480,
+      "image_id": "omhguuejj1ai7daylcll",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/omhguuejj1ai7daylcll.jpg",
+      "width": 640
+    },
+    {
+      "id": 170966,
+      "height": 480,
+      "image_id": "c3gvba8zzjelhmxtjz0n",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/c3gvba8zzjelhmxtjz0n.jpg",
+      "width": 640
+    },
+    {
+      "id": 170969,
+      "height": 480,
+      "image_id": "r1g1quqm6obczi0d0aee",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/r1g1quqm6obczi0d0aee.jpg",
+      "width": 640
+    },
+    {
+      "id": 170968,
+      "height": 480,
+      "image_id": "tuxljkvoddes8cswulze",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/tuxljkvoddes8cswulze.jpg",
+      "width": 640
+    },
+    {
+      "id": 170971,
+      "height": 480,
+      "image_id": "w8uolvscggmym7dqf79z",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/w8uolvscggmym7dqf79z.jpg",
+      "width": 640
+    }
+  ],
+  "storyline": "Three months after the events of Resident Evil 2, Claire Redfield is still looking for her brother Chris. She infiltrates Umbrella Corporation's headquarters in Paris, where she is captured and knocked out. When she comes to, she finds herself in a prison on a remote island. Freed by a friendly guard, Claire faces several problems. Not only is the island under attack by an unknown assailant, but there has been another outbreak of the T-Virus and the island is crawling with zombies and other mutated creatures. Claire not only has to face the undead, but also the commander of the base, a mad aristocrat with family ties to the origins of Umbrella Corporation and the T-Virus. And escaping from the island is only the beginning of Claire's ordeals.",
+  "summary": "Resident Evil Code: Veronica X is a port of the original game with additional content comprised of improved graphics along with an extra nine minutes of cutscenes. The character Steve had his hairstyle changed to have a noticeable fringe, and no longer proudly shows his forehead. This change was made to all cutscenes that feature him, as well as to the family photograph he carries with him. Apart from these changes, the game is almost the same as the original one.",
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 19,
+      "name": "Horror"
+    },
+    {
+      "id": 21,
+      "name": "Survival"
+    }
+  ],
+  "remasters": [
+    {
+      "id": 20622,
+      "name": "Resident Evil Code: Veronica X HD"
+    }
+  ],
+  "game_localizations": [
+    {
+      "id": 144,
+      "name": "バイオハザード コード：ベロニカ完全版",
+      "region": 3
+    },
+    {
+      "id": 26112,
+      "name": "바이오하자드 코드: 베로니카 X",
+      "region": 2
+    },
+    {
+      "id": 36344,
+      "region": 4
+    }
+  ],
+  "earliest_release_date": 985219200,
+  "all_regions": [
+    "Australia (AU)",
+    "New Zealand (NZ)",
+    "North America (NA)"
+  ],
+  "status_display": "Released (Вышла)",
+  "russian_support": "None",
+  "dlcs_data": [],
+  "parent_game_data": [
+    {
+      "name": "Resident Evil Code: Veronica",
+      "id": 968
+    }
+  ],
+  "franchise_data": [
+    {
+      "name": "Resident Evil",
+      "id": 29
+    }
+  ],
+  "remakes_remasters_data": [
+    {
+      "name": "Resident Evil Code: Veronica X HD",
+      "id": 20622
+    }
+  ],
+  "dlc_link_str": "—",
+  "parent_link_str": "<a href='game:968|Resident Evil Code: Veronica' style='color: #00d4ff; text-decoration: none;'>Resident Evil Code: Veronica</a>",
+  "franchise_link_str": "<a href='franchise:29|Resident Evil' style='color: #00d4ff; text-decoration: none;'>Resident Evil</a>",
+  "remake_link_str": "<a href='game:20622|Resident Evil Code: Veronica X HD' style='color: #00d4ff; text-decoration: none;'>Resident Evil Code: Veronica X HD</a>",
+  "dlcs_str": "",
+  "parent_game_str": "Resident Evil Code: Veronica",
+  "franchise_str": "Resident Evil",
+  "remakes_remasters_str": "Resident Evil Code: Veronica X HD",
+  "mixed_genres": "Shooter; Puzzle; Adventure; Action; Horror; Survival; Third person",
+  "developers_list": [
+    "Nextech"
+  ],
+  "publishers_list": [
+    "Capcom"
+  ],
+  "max_local_players": 1,
+  "description": "Resident Evil Code: Veronica X is a port of the original game with additional content comprised of improved graphics along with an extra nine minutes of cutscenes. The character Steve had his hairstyle changed to have a noticeable fringe, and no longer proudly shows his forehead. This change was made to all cutscenes that feature him, as well as to the family photograph he carries with him. Apart from these changes, the game is almost the same as the original one.",
+  "edition": "",
+  "cover_url_thumb": "https://images.igdb.com/igdb/image/upload/t_cover_small/co2vzv.jpg",
+  "cover_url_medium": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2vzv.jpg",
+  "cover_url_large": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2vzv.jpg",
+  "cover_url_full": "https://images.igdb.com/igdb/image/upload/t_original/co2vzv.jpg",
+  "screenshot_urls": [
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ngornmeoiu6cfvgjpn6a.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/ngornmeoiu6cfvgjpn6a.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/ngornmeoiu6cfvgjpn6a.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/enxvsz2d4thua1yzqber.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/enxvsz2d4thua1yzqber.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/enxvsz2d4thua1yzqber.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/jlu4yjfl9wakaawrpbj7.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/jlu4yjfl9wakaawrpbj7.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/jlu4yjfl9wakaawrpbj7.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/omhguuejj1ai7daylcll.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/omhguuejj1ai7daylcll.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/omhguuejj1ai7daylcll.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/c3gvba8zzjelhmxtjz0n.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/c3gvba8zzjelhmxtjz0n.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/c3gvba8zzjelhmxtjz0n.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/r1g1quqm6obczi0d0aee.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/r1g1quqm6obczi0d0aee.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/r1g1quqm6obczi0d0aee.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/tuxljkvoddes8cswulze.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/tuxljkvoddes8cswulze.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/tuxljkvoddes8cswulze.jpg"
+    },
+    {
+      "thumb": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/w8uolvscggmym7dqf79z.jpg",
+      "medium": "https://images.igdb.com/igdb/image/upload/t_screenshot_big/w8uolvscggmym7dqf79z.jpg",
+      "full": "https://images.igdb.com/igdb/image/upload/t_original/w8uolvscggmym7dqf79z.jpg"
+    }
+  ]
+}
