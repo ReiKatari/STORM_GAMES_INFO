@@ -1,65 +1,34 @@
-<div align="center">
+# STORM GAMES INFO
 
-<img src="logo.png" width="128" height="128" alt="STORM GAMES INFO Logo" />
+## **О проекте**
+STORM GAMES INFO — информационный хаб и агрегатор метаданных видеоигр, обложек высокой четкости, скриншотов, системных требований, игровых патчей и информации о совместимости. Интегрируется с крупными игровыми базами данных для каталогизации коллекции игр.
 
-# ⚡ STORM GAMES INFO
+## **Происхождение и форки**
+Оригинальная разработка ReiKatari.
 
-<p align="center">
-  <b>Агрегатор метаданных, скриншотов, трофеев и информации об играх из баз данных IGDB, MobyGames, RetroAchievements.</b>
-</p>
+## **Технологический стек**
+- **Языки программирования**: TypeScript, JavaScript (Node.js)
+- **Интерфейс**: React, Tailwind CSS, Electron, Vite
+- **Источники данных**: IGDB API, Steam Store API, RAWG API, TheGamesDB
 
-[![Version](https://img.shields.io/badge/version-1.0.0-00D2FF.svg?style=for-the-badge)](https://github.com/ReiKatari/STORM_GAMES_INFO)
-[![Platform](https://img.shields.io/badge/Platform-Windows%2011%20%7C%2010-0EA5E9.svg?style=for-the-badge)](https://github.com/ReiKatari/STORM_GAMES_INFO)
-[![Publisher](https://img.shields.io/badge/Publisher-STORM%20TEAM-10B981.svg?style=for-the-badge)](https://github.com/ReiKatari)
-[![Developer](https://img.shields.io/badge/Author-ReiKatari-F59E0B.svg?style=for-the-badge)](https://github.com/ReiKatari)
-[![Signed](https://img.shields.io/badge/Security-SHA256%20Signed-10B981.svg?style=for-the-badge)](https://github.com/ReiKatari)
+## **Ключевые возможности**
+- **Автоматический сбор метаданных**: Поиск обложек, баннеров, логотипов, описаний, жанров и рейтингов по названию игры.
+- **Каталогизатор коллекции**: Удобная сортировка по платформам, годам выпуска, разработчикам и статусу прохождения.
+- **Оффлайн-кэш информации**: Сохранение всех загруженных данных локально для быстрого просмотра без интернета.
 
-</div>
+## **Поддерживаемые платформы и эмуляторы**
+- **Операционные системы**: Windows 10, Windows 11 (x64, ARM64)
 
----
+## **Установка и запуск**
+1. Скачайте установщик из раздела **Releases** на GitHub.
+2. Установите и запустите приложение для организации вашей библиотеки игр.
 
-## 🌟 О проекте / Overview
+## **Безопасность и цифровые подписи**
+Подписано доверенным сертификатом **CN=STORM SOFT, O=STORM EDEN** (SHA-256 Authenticode).
 
-**STORM GAMES INFO** — компонент программного комплекса **STORM**, разработанный с упором на максимальную производительность, современный дизайн и надёжность.
+## **Авторы и лицензия**
+- **Автор проекта**: ReiKatari
+- **Лицензия**: MIT License
 
-* **Версия:** $ver
-* **Издатель:** STORM TEAM
-* **Ведущий разработчик:** ReiKatari
-* **Технологический стек:** $tech
-
----
-
-## 🚀 Установка / Installation
-
-Установка производится через единый инсталлятор **STORM INSTALLER**:
-
-1. Запустите файл STORM_STORM_GAMES_INFO_1.0.0_Setup.exe.
-2. Выберите режим:
-   * **Стандартная установка** — установка в C:\Program Files\STORM GAMES INFO с созданием ярлыков и регистрацией в системе.
-   * **Портативная версия** — распаковка в любую выбранную папку без изменения реестра.
-3. Опция автоматической регистрации доверенного сертификата STORM TEAM исключает предупреждения SmartScreen и Smart App Control.
-
----
-
-## 🛡️ Безопасность и Цифровая подпись / Code Signing
-
-Все исполняемые файлы и инсталляторы подписаны сертификатом **STORM TEAM** с использованием хэширования SHA-256 и RFC 3161 Timestamping.
-
-* Для ручной установки сертификата в хранилище доверенных корневых центров запустите:
-  Files\Разблокировать_И_Установить_Сертификат.bat от имени Администратора.
-
----
-
-## 📁 Структура репозитория / Structure
-
-* Assembling/ — скомпилированные релизные бинарные файлы и зависимости программы.
-* Files/ — инсталлятор, сертификат STORM_Certificate.cer и сервисные скрипты.
-* Sources/ — исходный код решения.
-
----
-
-## 👥 Авторы и Лицензия / Credits
-
-* **Разработчик:** [ReiKatari](https://github.com/ReiKatari)
-* **Издатель:** **STORM TEAM**
-* © 2026 STORM TEAM. Все права защищены.
+## **Благодарности**
+- **Команды IGDB и RAWG** — за открытые базы данных о видеоиграх.
