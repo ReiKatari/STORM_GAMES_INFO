@@ -57,3 +57,8 @@ installer/Output/
 *.tmp*
 *.wal
 
+
+# Cache data and images
+cache/
+*.jpg
+*.png
